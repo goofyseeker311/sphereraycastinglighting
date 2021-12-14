@@ -1,5 +1,5 @@
 # sphereraycastinglighting
-Sphere Ray Casting with Multiple Point Lighting
+Sphere Ray Casting with Multiple Point Lighting in 360 degrees
 
 ![raster14](https://user-images.githubusercontent.com/19920254/145729161-6ce1804c-f22f-49ef-95f6-03708e245e0b.png)
 ![testCCCA16](https://user-images.githubusercontent.com/19920254/145729162-73117010-1a23-4764-9ec2-581b675c3645.png)
